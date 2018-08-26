@@ -8,17 +8,17 @@ More than 0.7 million frames.
 17 body scans from 17 participants.  
 ![](https://github.com/sumulee/BodyShapeMocap-Dataset/raw/master/Images/tab1.png)  
 Compare BodyShapeMocap dataset with another three major mocap datasets.  
-![](https://github.com/sumulee/BodyShapeMocap-Dataset/raw/master/Images/tab1.png)  
+![](https://github.com/sumulee/BodyShapeMocap-Dataset/raw/master/Images/tab2.png)  
 Details of Mocap dataset.
 
 ## Devices
 Mocap devices: 17 MTw Awinda wireless motion trackers   
-Body scan devices: Kinect for Xbox One
+Body scan devices: Kinect for Xbox One  
 
 ## Data-precessing
 Mocap: recording selection, motion labelling, phase labelling and trajectory labelling  
 Body scan: rotation, scalling and removing obstacles  
 
 ## Code source
-PFNN: [PFNN](https://github.com/sebastianstarke/AI4Animation/tree/master/TensorFlow/SIGGRAPH_2017)
-Unity: [Demo](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/Assets)
+PFNN: [PFNN](https://github.com/sebastianstarke/AI4Animation/tree/master/TensorFlow/SIGGRAPH_2017)  
+Unity: [Demo](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/Assets)  
