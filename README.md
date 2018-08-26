@@ -6,10 +6,11 @@ People in different proportion move differently. Many properties can lead to thi
 212 minutes of motion recording.  
 More than 0.7 million frames.  
 17 body scans from 17 participants.  
+Compare BodyShapeMocap dataset with another three major mocap datasets:  
 ![](https://github.com/sumulee/BodyShapeMocap-Dataset/raw/master/Images/tab1.png)  
-Compare BodyShapeMocap dataset with another three major mocap datasets.  
+Details of Mocap dataset:  
 ![](https://github.com/sumulee/BodyShapeMocap-Dataset/raw/master/Images/tab2.png)  
-Details of Mocap dataset.
+
 
 ## Devices
 Mocap devices: 17 MTw Awinda wireless motion trackers   
